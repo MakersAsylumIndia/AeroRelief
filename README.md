@@ -11,12 +11,11 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 Start by writing a **brief introduction** to your project right here in this `README.md` file:
 
-🔹 What problem are you solving?  
+🔹 What problem are you solving? 
+This project is a fixed wing unmanned aerial vehicle designed for rapid deployment in flood-hit areas. Its primary function is to deliver essential supplies—such as medicine, food, water, and communication equipment—to locations that are otherwise inaccessible due to flooding.
 🔹 What’s your proposed solution?
+The main objective of this project is to design and develop a reliable and efficient UAV that can perform emergency delivery missions in flood-hit regions. The UAV should be able to autonomously navigate through flood-prone zones, deliver critical supplies, and return safety.
 
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
-
-Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
 
 ---
 
